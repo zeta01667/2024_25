@@ -8,4 +8,8 @@ Cómo pueden comenzar los usuarios con el proyecto
 Dónde pueden recibir ayuda los usuarios con tu proyecto
 Quié mantiene y contribuye con el proyecto
 
+rama_feature
+rama
+
 modificación en main
+ main
